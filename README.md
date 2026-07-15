@@ -1,5 +1,11 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
+# Java Programs
+
+This repository contains Java programs created by me for practice and learning.
+
+## Topics
+- Basic Java Programs
+- Loops
+- Arrays
+- OOP Concepts
+
+Created by: Ajaynesan M
